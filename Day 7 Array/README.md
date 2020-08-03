@@ -1,4 +1,4 @@
-[Day 6 Array](https://www.hackerrank.com/challenges/30-arrays/problem)
+[Day 7 Array](https://www.hackerrank.com/challenges/30-arrays/problem)
 
 My Solution
 
